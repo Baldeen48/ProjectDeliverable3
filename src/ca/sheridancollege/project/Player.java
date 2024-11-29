@@ -10,7 +10,7 @@ package ca.sheridancollege.project;
  *
  * @author dancye
  * @author Paul Bonenfant Jan 2020
- * modified by Baldeen 22 November 2024
+ * modified by Baldeen 29 November  2024
  * 
  */
 public  class Player {
